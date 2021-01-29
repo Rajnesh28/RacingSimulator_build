@@ -4,6 +4,10 @@ UNFINISHED BUILD
 
 Race off against AI racers head to head in awesome maps! Track your best scores each lap and become the best!
 
+Find out what the game looks like in /RSMver1.0 Screenshots...
+
+UPDATE AND PATCH LOG
+____________________
 Version 1.0:
 Lap Timer and Best Lap Timer
 First Map
